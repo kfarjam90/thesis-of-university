@@ -1,4 +1,7 @@
 # thesis-of-university
+
+Predicting Ad Clicks Using User Behavior
+
 One of the most important aspects of business is advertising. For many years, it has played a critical role in shaping business success. Although methods of advertising have evolved over time, its importance remains unchanged.
 In the past, companies relied on traditional media such as billboards, newspapers, magazines, and radio to promote their products and increase revenue. However, with the advent of technology and the internet, advertising strategies have undergone significant shifts. Nowadays, most people spend a considerable amount of time online, engaging in activities ranging from studying to paying bills. To align with this shift—and contribute to environmental conservation by reducing paper usage—digital advertising has become the preferred choice.
 In our goal is to predict whether users will click on advertisements. To achieve this, we aim to build a predictive model that accurately determines whether an advertisement was clicked (ad_clicked). We are provided with a folder containing CSV files that track user activity on the webpage.
